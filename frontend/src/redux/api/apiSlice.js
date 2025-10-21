@@ -1,6 +1,6 @@
 import Cookies from "js-cookie";
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
-const NEXT_PUBLIC_API_BASE_URL = 'https://shofy-backend-dlt.vercel.app';
+const NEXT_PUBLIC_API_BASE_URL = 'https://shofy-electronics-ecommerce-ei29.onrender.com';
 
 export const apiSlice = createApi({
   reducerPath: "api",
